@@ -1,0 +1,19 @@
+Software Requirements:
+Operating System: Windows 10/11, Linux, or macOS
+Programming Language: Python 3.x
+Libraries:
+OpenCV (for image and video processing)
+Dlib (for facial landmark detection)
+TensorFlow/Keras or PyTorch (for deep learning models)
+NumPy (for numerical operations)
+SciPy (for scientific computing)
+IDE: PyCharm, VS Code, or Jupyter Notebook
+Driver Detection Model: Pre-trained deep learning models for face and eye detection
+Additional Tools: Anaconda or virtual environment for package management
+Hardware Requirements:
+Processor: Intel i5 or higher, or AMD equivalent
+RAM: Minimum 8 GB (16 GB recommended for deep learning tasks)
+GPU: NVIDIA GPU with CUDA support (for faster deep learning inference)
+Camera: High-resolution webcam (for real-time eye and face tracking)
+Storage: Minimum 256 GB SSD for quick data access and processing
+Sensors (Optional): IR sensor (for additional precision in tracking)
